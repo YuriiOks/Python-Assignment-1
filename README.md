@@ -10,4 +10,7 @@ Welcome to my Assignment #1. This document outlines the code's overview and key 
 - Problem 4 - [...]
 - Problem 5 - [...]
 
+Problems pack can be found [here](https://github.com/YuriiOks/Python-Assignment-1-Problems-Pack/tree/main).
+
 📝 **Please replace all placeholder text in `[...]` with your specific project details.**
+
